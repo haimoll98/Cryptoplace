@@ -47,4 +47,4 @@ Proyek ini menggunakan lisensi MIT. Silakan digunakan, dimodifikasi, dan dikemba
 ```
 ### 🖼️ Screenshot Phone
 
-![](/src/assets/ssrepo.png)
+![](/src/assets/sshp.png)
