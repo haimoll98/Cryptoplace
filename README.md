@@ -8,7 +8,6 @@ Cryptoplace adalah aplikasi web berbasis web yang memberikan informasi real-time
 
 ### 🖼️ Screenshot
 
-|--------------------------------|
 |![](/src/assets/ssrepo.png)|
 
 ## 📌 Fitur Website
