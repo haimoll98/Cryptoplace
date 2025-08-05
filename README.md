@@ -40,7 +40,7 @@ Proyek ini menggunakan lisensi MIT. Silakan digunakan, dimodifikasi, dan dikemba
 
 1. Clone repo dan jalankan:
 ```bash
-   git clone
+   git clone https://github.com/haimoll98/Cryptoplace
    cd 
    npm install
    npm run dev
