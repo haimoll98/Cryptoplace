@@ -1,6 +1,6 @@
-# 🧑‍💻 Mollid Dev"
+# 🧑‍💻 Mollid Dev
 
-🔗 **Live Demo**: []
+🔗 **Live Demo**: [https://cryptoplace-opal.vercel.app/]
 
 ---
 
@@ -41,7 +41,10 @@ Proyek ini menggunakan lisensi MIT. Silakan digunakan, dimodifikasi, dan dikemba
 1. Clone repo dan jalankan:
 ```bash
    git clone https://github.com/haimoll98/Cryptoplace
-   cd 
+   cd Cryptoplace
    npm install
    npm run dev
 ```
+### 🖼️ Screenshot Phone
+
+![](/src/assets/ssrepo.png)
